@@ -1,0 +1,14 @@
+/*
+Theme Name: Raheema Child
+Template: raheema-theme
+Author: Raheema Tauqeer
+Description: Child theme of Raheema Theme
+Version: 1.0
+*/
+
+body {
+    background: #ffffff;
+}
+h1 {
+    color: #2271b1;
+}
